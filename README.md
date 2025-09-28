@@ -1,5 +1,9 @@
 <div align="center">
 
+# 🛑 Rewritting on https://github.com/daglaroglou/Aesir4 🛑
+## Contributors are more than welcome !
+
+
 ![Logo](https://i.imgur.com/B03k1rD.png)
 
 [![Build and Release](https://github.com/daglaroglou/Aesir/actions/workflows/release.yml/badge.svg)](https://github.com/daglaroglou/Aesir/actions/workflows/release.yml)
